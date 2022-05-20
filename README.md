@@ -1,4 +1,4 @@
-### EX NO : 
+### EX NO : 9
 ### DATE  :
 # <p align="center"> KNN CLASSIFICATION ALGORITHM </p>
 ## Aim:
